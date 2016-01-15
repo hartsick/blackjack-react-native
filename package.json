@@ -1,0 +1,16 @@
+{
+  "name": "blackjack",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "knuth-shuffle": "^1.0.1",
+    "lodash": "^4.0.0",
+    "react-native": "^0.18.0-rc",
+    "react-redux": "^3.1.2",
+    "redux": "^3.0.5"
+  },
+  "devDependencies": {}
+}
